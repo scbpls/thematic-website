@@ -1,2 +1,2 @@
 # ThematicWebsite
-The school's project about any topic
+The school's project of website about any topic
